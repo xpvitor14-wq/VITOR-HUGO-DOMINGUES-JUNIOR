@@ -1,0 +1,6 @@
+{
+  "name": "Race Star Champions",
+  "description": "Um jogo de corrida idle e gerenciador de carros divertido, colorido e acessível com controle sensorial e minijogos projetados para todas as crianças.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
